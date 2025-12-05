@@ -1,4 +1,4 @@
-# Santander Dev Week 2023 Java API
+# Santander 2025 - Ciência de Dados com Python
 
 RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 
